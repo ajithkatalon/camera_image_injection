@@ -1,0 +1,16 @@
+{
+  "keywordFileContentHash": "971815430C1698EC659A2F1916E6654C",
+  "keywordClasses": [
+    {
+      "name": "sample.Common",
+      "keywordMethods": [
+        {
+          "name": "startApplication",
+          "parameters": [],
+          "javadoc": ""
+        }
+      ]
+    }
+  ],
+  "javadocParsed": true
+}
