@@ -10,5 +10,6 @@ Mobile.verifyElementText(findTestObject('Spy/XCUIElementTypeStaticText - Colombi
 
 Mobile.verifyElementText(findTestObject('Spy/XCUIElementTypeStaticText - Coffees'), 'Coffees')
 
+//close app
 Mobile.closeApplication()
 
