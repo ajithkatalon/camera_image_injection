@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Script mode</description>
+   <name>Third test case</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e06ab776-d9d7-4ae6-ac8f-4933e2e40ac1</testCaseGuid>
+</TestCaseEntity>
